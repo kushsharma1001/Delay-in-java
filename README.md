@@ -39,6 +39,15 @@ public class SleepAlternate {
             }
         };
     }
+    
+    Output:
+Printed before supplier schedule at: 1601056947630
+Printed at 1601056957631: from supplier
+Printed after supplier schedule
+Printed before runnable schedule: 1601056957632
+ran at 1601056967633 run no: 1
+Printed after runnable schedule
+
 
 
 }
